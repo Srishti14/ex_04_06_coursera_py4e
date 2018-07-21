@@ -1,6 +1,6 @@
 # ex_04_06_coursera_py4e
 
-ewrite your pay computation with time-and-a-half for
+Exercise 6: Rewrite your pay computation with time-and-a-half for
 over-
 time and create a function called
 computepay
