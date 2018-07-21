@@ -10,6 +10,7 @@ hours
 and
 rate
 ).
-Enter Hours: 45
-Enter Rate: 10
-Pay: 475.0
+
+Enter Hours: 45 
+Enter Rate: 10 
+Pay: 475.0 
